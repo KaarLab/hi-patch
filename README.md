@@ -24,11 +24,17 @@ stored, as well as the quantitative output of each protein.
 
 Excel file formatting:
 Column A: Atom index
+
 Column B: Atom type within residue
+
 Column C: Residue type
+
 Column D: Residue index
+
 Column E-G: Coordinates in X-Y-Z
+
 Column H: Element
+
 Column I: Output from areas.py script executed in Pymol.
 
 Note: crystal structures in the Protein Data Bank are pretty diverse, and outliars
